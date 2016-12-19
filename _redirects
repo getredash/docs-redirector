@@ -18,6 +18,6 @@
 /en/latest/usage/elasticsearch_querying.html https://redash.io/help/queries/querying_elasticsearch.html 301
 /en/latest/misc.html https://redash.io/help 301
 /en/latest/misc/proxy_pass.html https://redash.io/help 301
-/en/latest/usage/special_features.html https://redash.io/help 301
+/en/latest/usage/special_features.html
 /en/latest/usage/maintenance.html https://redash.io/help-onpremise/maintenance/ongoing-maintenance-and-basic-operations.html 301
-# /en/latest/usage.html 
+/en/latest/usage.html https://redash.io/help 301
