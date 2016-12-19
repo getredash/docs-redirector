@@ -1,0 +1,23 @@
+/ https://redash.io/help 301
+/en/latest/ https://redash.io/help 301
+/en/latest/setup.html https://redash.io/help-onpremise/setup/setting-up-redash-instance.html 301
+/en/latest/settings.html https://redash.io/help-onpremise/setup/settings-environment-variables.html 301
+/en/latest/misc/ssl.html https://redash.io/help-onpremise/setup/ssl-https-setup.html 301
+/en/latest/upgrade.html https://redash.io/help-onpremise/maintenance/how-to-upgrade-redash.html 301
+/en/latest/datasources.html https://redash.io/help-onpremise/setup/supported-data-sources-options-reqs.html 301
+/en/latest/usage/jira_querying.html https://redash.io/help/queries/querying_jira_jql.html 301
+/en/latest/dev/vagrant.html https://redash.io/help-onpremise/setup/setting-up-development-environment-using-vagrant.html 301
+/en/latest/dev/query_execution.html https://redash.io/help-onpremise/how-rd-works/query-execution-model.html 301
+/en/latest/dev/results_format.html https://redash.io/help-onpremise/how-rd-works/data-source-results-format.html 301
+/en/latest/dev/saml.html https://redash.io/help-onpremise/setup/saml-authentication-and-authorization.html 301
+/en/latest/misc/letsencrypt.html https://redash.io/help-onpremise/misc/how-to-encrypt-your-redash-installation-with-a-free-ssl-certificate-from-lets-encrypt.html 301
+/en/latest/misc/google_developers_project.html https://redash.io/help-onpremise/setup/how-to-create-a-google-developers-project.html 301
+/en/latest/misc/backup_restore.html https://redash.io/help-onpremise/misc/backup-your-redash-database-and-restore-it-on-a-different-server.html 301
+/en/latest/usage/permissions.html https://redash.io/help/user-mgmt/user-mgmt.html 301
+/en/latest/usage/mongodb_querying.html https://redash.io/help/queries/querying_mongodb.html 301
+/en/latest/usage/elasticsearch_querying.html https://redash.io/help/queries/querying_elasticsearch.html 301
+/en/latest/misc.html https://redash.io/help 301
+/en/latest/misc/proxy_pass.html https://redash.io/help 301
+/en/latest/usage/special_features.html https://redash.io/help 301
+/en/latest/usage/maintenance.html https://redash.io/help-onpremise/maintenance/ongoing-maintenance-and-basic-operations.html 301
+# /en/latest/usage.html 
